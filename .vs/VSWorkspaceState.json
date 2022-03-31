@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AspNetCoreApp",
+    "\\AspNetCoreApp\\AspNetCoreProj",
+    "\\AspNetCoreApp\\AspNetCoreProj\\Controllers",
+    "\\AspNetCoreApp\\AspNetCoreProj\\Views",
+    "\\AspNetCoreApp\\AspNetCoreProj\\Views\\Home"
+  ],
+  "SelectedNode": "\\AspNetCoreApp\\AspNetCoreProj\\Controllers\\ProductsController.cs",
+  "PreviewInSolutionExplorer": false
+}
